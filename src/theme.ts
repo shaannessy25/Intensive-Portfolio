@@ -12,12 +12,12 @@ const theme: Theme = {
   ...BASE_THEME,
   colors: {
     background: '#FFFFFF',
-    muted: '#f0e6f6',
+    muted: '#DBE4EE',
     gray: '#ddd',
     text: '#333333',
 
     primary: '#7c37ad',
-    secondary: '#ff4081',
+    secondary: '#0C7489',
     highlight: '#ff79b0',
   },
   queries: {
