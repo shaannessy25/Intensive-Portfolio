@@ -1,0 +1,447 @@
+{
+  "name": "Shaan",
+  "description": "I'm a full-stack developer and UI designer who uses code to enhance the life of others.",
+  "roles": [
+    "React ⚛",
+    "JavaScript 🛠",
+    "CSS/SASS 🎨",
+    "Node.js 🟩",
+    "Python 🐍"
+  ],
+  "socialLinks": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6z39glwushm5"
+          }
+        },
+        "id": "4SrlLN9bt6Yew2UyGgM06a",
+        "type": "Entry",
+        "createdAt": "2021-01-12T11:08:06.905Z",
+        "updatedAt": "2021-01-12T11:21:34.524Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Github",
+        "url": "https://github.com/shaannessy25",
+        "fontAwesomeIcon": "github"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6z39glwushm5"
+          }
+        },
+        "id": "3DpgtG8qI8QCWyEAuME4Ku",
+        "type": "Entry",
+        "createdAt": "2021-01-12T11:08:08.548Z",
+        "updatedAt": "2021-01-12T18:04:30.270Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Medium",
+        "url": "https://shaan-hurley25.medium.com/",
+        "fontAwesomeIcon": "medium"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6z39glwushm5"
+          }
+        },
+        "id": "114ApRkJZq640w8G2GwM8w",
+        "type": "Entry",
+        "createdAt": "2021-01-12T11:08:08.255Z",
+        "updatedAt": "2021-01-12T11:08:08.255Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Contact me",
+        "url": "https://emanuelsuriano.typeform.com/to/OeETl6",
+        "fontAwesomeIcon": "envelope"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6z39glwushm5"
+          }
+        },
+        "id": "4J6WFTjoMUCmQKuKAaOsqE",
+        "type": "Entry",
+        "createdAt": "2021-01-12T11:08:07.963Z",
+        "updatedAt": "2021-01-12T18:58:28.856Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 11,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "linkedIn",
+        "url": "https://www.linkedin.com/in/shaan-hurley-670650123/",
+        "fontAwesomeIcon": "twitter"
+      }
+    }
+  ],
+  "profile": {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "6z39glwushm5"
+        }
+      },
+      "id": "6nf3rNaaVaUqYcoAcciSeC",
+      "type": "Asset",
+      "createdAt": "2021-01-12T11:08:04.659Z",
+      "updatedAt": "2021-01-12T17:03:43.393Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 2,
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "Portfolio Logo",
+      "description": "Portfolio Logo",
+      "file": {
+        "url": "//images.ctfassets.net/6z39glwushm5/6nf3rNaaVaUqYcoAcciSeC/24f29914883ca16f59824d1391ea3539/LogoMakr-0QFvj9.png",
+        "details": {
+          "size": 31089,
+          "image": {
+            "width": 299,
+            "height": 300
+          }
+        },
+        "fileName": "LogoMakr-0QFvj9.png",
+        "contentType": "image/png"
+      }
+    }
+  },
+  "aboutMe": "Hello my name is Shaan Hurley, I'm a full-stack developer and UI designer who uses code to help enhance the lives of others. I started learning web development in the summer of 2018, since then I have learned over 10 different languages and frameworks. I am proficient in React, Node.js, CSS/SASS, and React Native. My ultimate goal is to use my coding skills to tackle major real world problems like climate change or managing big data. In the next 5 years I hope to see my work cause or provoke change in these global issues.\n\nWhen I'm not writing code, I often spend my freetime writing lyrics and making profesionally sounding music. I have already released two albums under the artist name of Shaannessy. ",
+  "mediumUser": "@shaan-hurley25",
+  "projects": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6z39glwushm5"
+          }
+        },
+        "id": "6Y7EIx73nUCWuoIWcsuM00",
+        "type": "Entry",
+        "createdAt": "2021-01-12T11:08:08.859Z",
+        "updatedAt": "2021-01-12T17:03:58.918Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Trilliant",
+        "publishedDate": "2020-05-02T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "6z39glwushm5"
+              }
+            },
+            "id": "u3Um4zkMrAaQioyq4oSIW",
+            "type": "Asset",
+            "createdAt": "2021-01-12T11:08:04.940Z",
+            "updatedAt": "2021-01-12T11:29:56.859Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Trilliant Logo",
+            "description": "Trilliant logo",
+            "file": {
+              "url": "//images.ctfassets.net/6z39glwushm5/u3Um4zkMrAaQioyq4oSIW/a573a0f48862363457638338f3d43ce2/trilliantLogo.png",
+              "details": {
+                "size": 11537,
+                "image": {
+                  "width": 587,
+                  "height": 587
+                }
+              },
+              "fileName": "trilliantLogo.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/MakeMeSenpai/trilliant-trillionaires",
+        "description": "Trilliant is a product review website that allows users to review and rate products. Trilliant offers assurance that the item being purchased is the exact item they will receive.",
+        "projectUrl": "https://trilliant-5ed97.web.app/",
+        "type": "Web"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6z39glwushm5"
+          }
+        },
+        "id": "2GKNR2f4z6IwAg6a2MmKCc",
+        "type": "Entry",
+        "createdAt": "2021-01-12T11:08:09.193Z",
+        "updatedAt": "2021-01-12T18:02:17.938Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "MyLyfe",
+        "publishedDate": "2020-03-03T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "6z39glwushm5"
+              }
+            },
+            "id": "6rkOXCpyvuekYIgy6U6gGu",
+            "type": "Asset",
+            "createdAt": "2021-01-12T11:08:05.445Z",
+            "updatedAt": "2021-01-12T11:33:28.810Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "MyLyfe Logo",
+            "description": "MyLyfe Logo",
+            "file": {
+              "url": "//images.ctfassets.net/6z39glwushm5/6rkOXCpyvuekYIgy6U6gGu/78acaa1dd04a4c8284add3ff927c25e6/favicon.ico",
+              "details": {
+                "size": 6923,
+                "image": {
+                  "width": 280,
+                  "height": 277
+                }
+              },
+              "fileName": "favicon.ico",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/farhan-begg/mylife",
+        "description": "MyLyfe is a todo list/habit tracker that allows users to earn points and rewards for the completion of todos and habits",
+        "projectUrl": "https://my-life-eba96.web.app/",
+        "type": "Web"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6z39glwushm5"
+          }
+        },
+        "id": "5paxSRHbAkmgMc4WSW8S66",
+        "type": "Entry",
+        "createdAt": "2021-01-12T11:08:09.569Z",
+        "updatedAt": "2021-01-12T18:02:57.389Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "MyPage+",
+        "publishedDate": "2019-11-23T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "6z39glwushm5"
+              }
+            },
+            "id": "3AorRmtWOsGQ4o8gK0YWKG",
+            "type": "Asset",
+            "createdAt": "2021-01-12T11:08:04.408Z",
+            "updatedAt": "2021-01-12T12:13:19.720Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "MyPage+ Logo",
+            "description": "MyPage+ Logo",
+            "file": {
+              "url": "//images.ctfassets.net/6z39glwushm5/3AorRmtWOsGQ4o8gK0YWKG/0f47dc5769848242e112a4596a3a8891/mypage.jpg",
+              "details": {
+                "size": 38108,
+                "image": {
+                  "width": 1079,
+                  "height": 1079
+                }
+              },
+              "fileName": "mypage.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/shaannessy25/myPagePlus",
+        "description": "MyPage+ is a social media aggregator that allows users to access all of their favorite application in one secure website.",
+        "projectUrl": "https://mypageplus.herokuapp.com/",
+        "type": "Web"
+      }
+    }
+  ],
+  "colors": {
+    "background": "#FFFFFF",
+    "muted": "#DBE4EE",
+    "gray": "#ddd",
+    "text": "#333333",
+    "primary": "#7c37ad",
+    "secondary": "#0C7489",
+    "highlight": "#ff79b0"
+  }
+}
